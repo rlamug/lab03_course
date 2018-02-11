@@ -12,7 +12,7 @@ class Course
         void print();
     private:
         string m_dept;
-        int m_numebr;
+        int m_number;
         int m_time;
 };
 #endif
